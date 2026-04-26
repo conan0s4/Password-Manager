@@ -1,4 +1,38 @@
-<h1>Password Manager (Java Swing + SQLite)</h1>
+<div align="center">
+
+<h1 style="font-size: 34px; margin-bottom: 0;">Password Manager</h1>
+
+<h3 style="margin-top: 8px; font-weight: 400;">
+Java Swing • SQLite • Secure Password Storage System
+</h3>
+
+<p style="margin-top: 10px; font-size: 14px;">
+Educational Password Management System with Authentication, Password Generation, and Local Database Storage
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+<span style="background-color:#2d2d2d;color:white;padding:4px 10px;border-radius:6px;font-size:12px;">
+purpose: educational
+</span>
+
+<span style="background-color:#2d2d2d;color:white;padding:4px 10px;border-radius:6px;font-size:12px;">
+focus: secure storage simulation
+</span>
+
+<span style="background-color:#2d2d2d;color:white;padding:4px 10px;border-radius:6px;font-size:12px;">
+tech: java + sqlite + swing
+</span>
+
+<span style="background-color:#2d2d2d;color:white;padding:4px 10px;border-radius:6px;font-size:12px;">
+status: completed prototype
+</span>
+
+</div>
 
 <h2>Overview</h2>
 
