@@ -1,10 +1,15 @@
 <div align="center">
 
-<h1 style="font-size: 34px; margin-bottom: 0;">Password Manager</h1>
+# Password Manager
 
-<h3 style="margin-top: 8px; font-weight: 400;">
-Java Swing • SQLite • Secure Password Storage System
-</h3>
+### Secure Password Storage System
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Swing](https://img.shields.io/badge/Java_Swing-GUI-blue?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-PASSWORD%20VAULT-important?style=for-the-badge)
+
+</div>
 
 <p style="margin-top: 10px; font-size: 14px;">
 Educational Password Management System with Authentication, Password Generation, and Local Database Storage
